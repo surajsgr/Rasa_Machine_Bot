@@ -1,0 +1,1 @@
+print("hello {1} {0}".format('suraj',"Tanmay"))
